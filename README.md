@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Along with the pace of development development in each region and business sector, the threats and risks that accompany it increase. One form of disaster risk that often occurs is the danger of fire. Where the rapid number of population, housing and industry and other business buildings make the process of combating fire hazard becomes difficult to do and overcome.
 ## Considering
 these situations and conditions, PT. TOPAZ EMERALDA IMATIA was inspired to work together in the business of FIRE SAFETY & EQUIPMENT for the procurement of Equipment / Equipment and increased knowledge and capability of HR in agencies and companies in anticipating and handling fire hazards.
-## HSE (HEALTH, SAFETY AND ENVIRONMENT) POLICIES
+## HSE (Health, Safety and Environment) Policies
 PT. TOPAZ EMERALDA IMATIA has been equipped with work facilities and product testing, as well as collaborating with structures from the Fire and Rescue Service and related agencies. Through determination & high spirit PT. TOPAZ EMERALDA IMATIA will provide professional services in both quality and quality and improve human resources to find out the dangers and risks of disasters and fire hazards. Form of attention to the quality and quality of PT. TOPAZ EMERALDA IMATIA refers to ISO 9001: 2008, producing the following quality and quality policies: 
 1. Making reliable products of the highest quality, 
 2. Always committed to meeting consumer requirements and safety standards, 
