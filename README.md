@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## Welcome to INDOSAVE
 You can use the [editor on GitHub](https://github.com/transdigiware/indosave/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -35,8 +34,8 @@ Is a Provider of Fire Extinguisher Equipment and Supplies, such as:
 
 
 ```
-Fire Protecti on & Safety EQUIPMENT
-MODULE
+# Fire Protection & Safety EQUIPMENT
+## MODULE
 Application of calculation of fire flow splinkler
 
 ```
