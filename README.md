@@ -39,8 +39,6 @@ MODULE
 Application of calculation of fire flow splinkler
 CODE 511 
 51 > Untuk Wilayah Timur
-``````````````````````````````````````````````````
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
