@@ -43,6 +43,7 @@ CODE 511
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+[![](docs/doc-images/GFoB1.png)](https://youtu.be/nmek-ob_jj0)
 
 ### Jekyll Themes
 
